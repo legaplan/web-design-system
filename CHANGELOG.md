@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.0.0 (2024-11-14)
+
+
+### Features
+
+* **#44:** Add web specific design system ([08d5709](https://github.com/legaplan/web-design-system/commit/08d5709b5dc2fd74a032ea0eb97ece98de8f4082))
+
 ## [1.3.2](https://github.com/legaplan/design-system/compare/v1.3.1...v1.3.2) (2024-11-07)
 
 
